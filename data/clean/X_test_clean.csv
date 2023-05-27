@@ -1,0 +1,326 @@
+Manufacturer,Screen_Size,RAM,GPU,Operating_System,Operating_System_Version,Weight,Storage_Capacity,Storage_Type,CPU_brand,CPU_freq,CPU_cores,CPU_model,Screen_Resolution,Screen_Model,GPU_brand
+HP,15.6,6,Intel HD Graphics 620,Windows,10,2.04,1024,HDD,Intel,2.7,2,Core i7 7500U,1366x768,Unknown,Intel
+Asus,17.3,16,Nvidia GeForce GTX 1050 Ti,Windows,10,2.99,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Dell,15.6,12,Intel HD Graphics 620,Windows,10,2.19,512,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Toshiba,13.3,4,Intel HD Graphics 520,Windows,7,1.2,128,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+Lenovo,15.6,6,AMD Radeon 530,Windows,10,2.2,256,SSD,AMD,3.6,4,A12 Series 9720P,1920x1080,Full HD,AMD
+Fujitsu,15.6,4,Intel HD Graphics 520,Windows,10,2.3,256,SSD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+Toshiba,14.0,4,Intel HD Graphics 520,Windows,10,1.75,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+Dell,15.6,4,AMD Radeon R5 M430,Windows,10,2.25,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,AMD
+HP,15.6,8,Intel HD Graphics 620,Windows,10,2.04,1024,HDD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+Lenovo,15.6,8,Nvidia GeForce GTX 1060,Windows,10,2.5,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,15.6,8,AMD Radeon R7 M445,Windows,10,2.36,1024,HDD,Intel,2.7,2,Core i7 7500U,1366x768,Unknown,AMD
+Dell,14.0,8,Intel HD Graphics 620 ,Windows,10,1.6,128,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+HP,12.5,8,Intel HD Graphics 515,Windows,10,0.97,512,SSD,Intel,1.2,2,Core M 6Y75,1920x1080,Full HD,Intel
+HP,15.6,4,AMD Radeon 520,Windows,10,2.1,1152,SSD + HDD,Intel,2.0,2,Core i3 6006U,1920x1080,Full HD,AMD
+Lenovo,15.6,4,Intel HD Graphics 500,No OS,No OS,1.9,128,SSD,Intel,1.1,2,Celeron Dual Core N3350,1366x768,Unknown,Intel
+Lenovo,15.6,8,Intel HD Graphics 520,Windows,10,2.3,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+Dell,13.3,8,Intel HD Graphics 620,Windows,10,1.68,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD / Touchscreen,Intel
+Asus,13.3,8,Intel HD Graphics 620,Windows,10,1.4,256,SSD,Intel,2.5,2,Core i5 7200U,3200x1800,Quad HD+,Intel
+HP,13.3,8,Intel HD Graphics 620,Windows,10,1.11,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Acer,15.6,4,Intel HD Graphics 505,Windows,10,2.4,500,HDD,Intel,1.1,4,Pentium Quad Core N4200,1366x768,Unknown,Intel
+Asus,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,10,2.5,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+HP,14.0,8,Intel HD Graphics 620,Windows,10,1.48,512,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Intel
+Acer,15.6,8,Nvidia GeForce GTX 1050,Windows,10,2.7,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,13.3,8,Intel HD Graphics 620,Windows,10,1.34,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,IPS Panel Full HD,Intel
+Dell,15.6,4,Intel HD Graphics 620,Windows,10,2.18,128,SSD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+HP,14.0,4,Intel HD Graphics 620,Windows,10,1.64,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Toshiba,13.3,4,Intel HD Graphics 520,Windows,10,1.2,128,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,14.0,4,Intel HD Graphics 520,Windows,10,1.48,256,SSD,Intel,2.4,2,Core i5 6300U,1366x768,Unknown,Intel
+HP,14.0,4,Intel HD Graphics 620,Windows,10,1.95,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+HP,14.0,8,Intel HD Graphics 520,Windows,7,1.43,256,SSD,Intel,2.6,2,Core i7 6600U,1920x1080,Full HD,Intel
+HP,14.0,8,Nvidia GeForce 930MX,Windows,10,1.64,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Nvidia
+HP,14.0,4,Intel HD Graphics 620,Windows,10,1.64,500,HDD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+Dell,15.6,8,Nvidia GeForce GTX 1050,Windows,10,2.65,1024,Hybrid,Intel,2.5,4,Core i5 7300HQ,1920x1080,Full HD,Nvidia
+HP,12.5,4,Intel HD Graphics 620,Windows,10,1.26,500,HDD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+HP,14.0,4,Intel HD Graphics 620,Windows,10,1.48,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+HP,14.0,8,Intel HD Graphics 520,Windows,10,1.54,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+HP,13.3,4,Intel HD Graphics 620,Windows,10,1.49,500,HDD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+Toshiba,13.3,8,Intel HD Graphics 520,Windows,10,1.5,256,SSD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+HP,15.6,4,Intel HD Graphics 620,Windows,10,2.04,256,SSD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+Lenovo,17.3,16,Nvidia Quadro 3000M,Windows,7,2.4,512,SSD,Intel,2.7,4,Core i7 6820HQ,3840x2160,IPS Panel 4K Ultra HD,Nvidia
+Toshiba,14.0,8,Intel HD Graphics 520,Windows,10,1.47,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,IPS Panel Full HD,Intel
+HP,14.0,8,Intel HD Graphics 520,Windows,10,1.43,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+Dell,15.6,4,Intel HD Graphics 520,Windows,10,2.08,1024,HDD,Intel,2.3,2,Core i3 6100U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Toshiba,13.3,8,Intel HD Graphics 520,Windows,10,1.2,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,13.3,8,Intel HD Graphics 620,Windows,10,1.11,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,IPS Panel Full HD,Intel
+HP,14.0,8,Nvidia GeForce 930MX,Windows,10,1.64,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Nvidia
+Dell,15.6,8,Intel HD Graphics 520,Windows,10,2.09,500,HDD,Intel,2.4,2,Core i5 6300U,1920x1080,Full HD,Intel
+HP,12.5,4,Intel HD Graphics 620,Windows,10,1.26,256,SSD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+HP,14.0,4,Intel HD Graphics 620,Windows,10,2.31,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+HP,14.0,4,Intel HD Graphics 620,Windows,10,1.95,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Dell,13.3,8,Intel HD Graphics 620,Windows,10,1.29,256,SSD,Intel,2.5,2,Core i5 7200U,3200x1800,Quad HD+ / Touchscreen,Intel
+HP,17.3,8,Nvidia GeForce 930MX,Windows,10,2.63,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Nvidia
+HP,14.0,4,Intel HD Graphics 620,Windows,10,1.64,256,SSD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Acer,15.6,6,AMD Radeon R5,Windows,10,2.1,1024,HDD,AMD,3.0,2,A9 Series 9420,1366x768,Unknown,AMD
+MSI,17.3,8,Nvidia GeForce GTX 1050,Windows,10,2.7,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+HP,14.0,8,Intel HD Graphics 520,Windows,7,1.95,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,15.6,8,Intel HD Graphics 520,Windows,10,1.84,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+HP,12.5,8,Intel HD Graphics 520,Windows,10,1.26,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+HP,15.6,4,Intel HD Graphics 620,Windows,10,2.04,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Toshiba,14.0,8,Intel HD Graphics 520,Windows,10,1.47,256,SSD,Intel,2.6,2,Core i7 6600U,1920x1080,IPS Panel Full HD,Intel
+Dell,15.6,8,Intel HD Graphics 520,Windows,7,2.09,256,SSD,Intel,2.4,2,Core i5 6300U,1920x1080,Full HD,Intel
+HP,14.0,8,Intel HD Graphics 620,Windows,10,1.64,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+Lenovo,15.6,4,Intel HD Graphics 520,Windows,10,1.8,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Vero,14.0,2,Intel HD Graphics 400,Windows,10,1.45,32,Flash Storage,Intel,1.44,4,Atom X5 Z8350,1366x768,Unknown,Intel
+Toshiba,15.6,16,Nvidia GeForce 930M,Windows,10,2.4,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD,Nvidia
+Lenovo,15.6,8,Intel HD Graphics 520,Windows,10,2.3,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,14.0,4,Intel HD Graphics 520,Windows,10,1.54,500,HDD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,15.6,8,Intel HD Graphics 520,Windows,10,1.84,756,SSD + HDD,Intel,2.4,2,Core i5 6300U,1920x1080,Full HD,Intel
+HP,14.0,8,Intel HD Graphics 520,Windows,7,1.43,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+MSI,17.3,16,Nvidia GeForce GTX 980M,Windows,10,3.78,1280,SSD + HDD,Intel,2.7,4,Core i7 6820HK,1920x1080,IPS Panel Full HD,Nvidia
+Lenovo,17.3,16,Nvidia GeForce GTX 980M,Windows,10,4.6,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Asus,11.6,4,Intel HD Graphics 400,Chrome OS,Unkonwn,1.2,16,Flash Storage,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+Lenovo,14.0,16,Intel HD Graphics 520,Windows,7,1.1,256,SSD,Intel,2.6,2,Core i7 6600U,2560x1440,IPS Panel,Intel
+HP,15.6,8,Nvidia GeForce 940MX,Windows,10,1.91,1024,HDD,Intel,2.7,2,Core i7 7500U,1920x1080,IPS Panel Full HD,Nvidia
+Dell,15.6,8,Intel HD Graphics 620,Windows,10,2.3,256,SSD,Intel,2.7,2,Core i5 7200U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+HP,15.6,4,Intel HD Graphics 620,Windows,10,2.04,256,SSD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Dell,13.3,16,Intel HD Graphics 620,Windows,10,1.2,1024,SSD,Intel,2.7,2,Core i7 7500U,3200x1800,Quad HD+ / Touchscreen,Intel
+HP,15.6,4,Intel HD Graphics 520,Windows,10,2.31,500,HDD,Intel,2.3,2,Core i3 6100U,1366x768,Unknown,Intel
+HP,15.6,4,Intel HD Graphics 620,No OS,No OS,1.96,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Acer,15.6,8,AMD Radeon R5,Windows,10,2.4,1024,HDD,AMD,2.2,4,A8 Series 7410,1366x768,Unknown,AMD
+Dell,13.3,12,Intel HD Graphics 620,Windows,10,1.6,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+MSI,15.6,16,Nvidia GeForce GTX 1060,Windows,10,2.94,1280,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+HP,15.6,8,Intel HD Graphics 620,Windows,10,2.04,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Intel
+Asus,17.3,16,Nvidia GeForce GTX 965M,No OS,No OS,4.0,1024,HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,15.6,4,Intel HD Graphics,Windows,10,2.25,1024,HDD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+Dell,15.6,16,AMD Radeon R7 M445,Windows,10,2.32,2048,HDD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,AMD
+MSI,15.6,16,Nvidia GeForce GTX 1060,Windows,10,1.8,1280,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+Dell,13.3,8,Intel HD Graphics 620,Windows,10,1.29,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Intel
+Asus,17.3,64,Nvidia GeForce GTX 980 ,Windows,10,3.58,1024,SSD,Intel,2.7,4,Core i7 6820HK,1920x1080,IPS Panel Full HD,Nvidia
+Dell,13.3,8,Intel HD Graphics 520,Windows,10,1.62,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD / Touchscreen,Intel
+Dell,15.6,16,Nvidia GeForce GTX 970M,Windows,10,3.21,1280,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,3840x2160,4K Ultra HD,Nvidia
+Apple,12.0,8,Intel HD Graphics 515,Mac OS,X,0.92,256,Flash Storage,Intel,1.1,1,Core M,2304x1440,IPS Panel Retina Display,Intel
+Dell,15.6,4,Intel HD Graphics 520,Windows,10,2.06,500,HDD,Intel,2.3,2,Core i3 6100U,1366x768,Unknown,Intel
+HP,15.6,4,Intel HD Graphics 520,Windows,10,2.31,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+HP,12.5,8,Intel HD Graphics 520,Windows,7,1.26,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,13.3,8,Intel HD Graphics 620,Windows,10,1.49,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Intel
+Lenovo,12.5,8,Intel HD Graphics 520,Windows,10,1.3,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Lenovo,17.3,8,AMD Radeon R5 M330,Windows,10,3.0,1024,HDD,Intel,2.3,2,Core i5 6200U,1600x900,Unknown,AMD
+Lenovo,15.6,4,Nvidia GeForce GTX 950M,Windows,10,2.3,1024,HDD,Intel,2.3,4,Core i5 6300HQ,1920x1080,IPS Panel Full HD,Nvidia
+MSI,17.3,16,Nvidia GeForce GTX 1070,Windows,10,3.78,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Lenovo,15.6,4,Intel HD Graphics 520,Windows,10,2.1,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+HP,15.6,4,Intel HD Graphics 520,Windows,7,2.31,500,HDD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+Lenovo,12.5,8,Intel HD Graphics 515,Windows,10,0.99,512,SSD,Intel,1.2,2,Core M 6Y75,2560x1440,IPS Panel Touchscreen,Intel
+Lenovo,17.3,32,Nvidia GeForce GTX 980M,Windows,10,4.6,1536,SSD + Hybrid,Intel,2.7,4,Core i7 6820HK,1920x1080,IPS Panel Full HD,Nvidia
+Lenovo,10.1,4,Intel HD Graphics 400,Windows,10,0.69,64,Flash Storage,Intel,1.44,4,Atom x5 Z8550,1920x1200,IPS Panel Touchscreen,Intel
+HP,13.3,16,Intel HD Graphics 620,Windows,10,1.3,512,SSD,Intel,2.7,2,Core i7 7500U,3840x2160,IPS Panel 4K Ultra HD,Intel
+Dell,15.6,8,Intel HD Graphics 620,Windows,10,2.18,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Intel
+HP,14.0,4,Intel HD Graphics 520,Windows,7,1.54,500,HDD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,15.6,8,AMD FirePro W4190M,Windows,7,1.9,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,AMD
+Lenovo,14.0,8,Intel HD Graphics 520,Windows,7,1.7,1,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,13.3,4,Intel HD Graphics 515,Chrome OS,Unkonwn,1.29,32,Flash Storage,Intel,1.5,2,Pentium Dual Core 4405Y,3200x1800,Quad HD+,Intel
+Acer,15.6,4,AMD Radeon R5,Windows,10,2.4,500,HDD,AMD,2.2,4,A8 Series 7410,1366x768,Unknown,AMD
+Dell,15.6,4,Intel HD Graphics,Linux,Unkonwn,2.2,500,HDD,Intel,1.6,4,Pentium Quad Core N3700,1366x768,Unknown,Intel
+HP,15.6,4,Intel HD Graphics 520,No OS,No OS,1.86,1024,HDD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,Intel
+Asus,17.3,8,Nvidia GeForce GTX 1060,Windows,10,2.7,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,13.3,4,AMD Radeon 530,Windows,10,1.4,256,SSD,Intel,1.6,4,Core i5 8250U,1920x1080,IPS Panel Full HD,AMD
+HP,12.5,4,Intel HD Graphics 520,Windows,7,2.4,128,SSD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+Acer,15.6,8,Nvidia GeForce GTX 950M,Windows,10,2.4,1280,SSD + HDD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Nvidia
+Dell,15.6,8,AMD Radeon R7 M445,Windows,10,2.36,1024,HDD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,AMD
+MSI,17.3,8,Nvidia GeForce GTX 965M,Windows,10,2.6,256,SSD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+HP,15.6,4,Intel HD Graphics 405,Windows,10,1.96,1024,HDD,Intel,1.6,4,Pentium Quad Core N3710,1366x768,Unknown,Intel
+Asus,17.3,16,Nvidia GeForce GTX 980M,Windows,10,4.3,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,12.5,4,Intel HD Graphics 520,Windows,7,1.5,500,HDD,Intel,2.3,2,Core i3 6100U,1366x768,Unknown,Intel
+Dell,12.5,4,Intel HD Graphics 520,Windows,7,1.5,128,SSD,Intel,2.3,2,Core i3 6100U,1366x768,Unknown,Intel
+Acer,15.6,4,Intel HD Graphics,Chrome OS,Unkonwn,2.2,16,SSD,Intel,1.5,2,Celeron Dual Core 3205U,1366x768,Unknown,Intel
+HP,17.3,8,AMD FirePro W6150M,Windows,7,3.0,1024,HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,AMD
+Lenovo,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,10,2.4,512,SSD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Dell,12.5,8,Intel HD Graphics 520,Windows,7,1.5,256,SSD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+MSI,17.3,8,Nvidia GeForce GTX 960M,Windows,10,2.9,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+Lenovo,15.6,4,Intel HD Graphics 520,Windows,10,2.1,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+HP,15.6,4,AMD Radeon R4,Windows,10,2.1,1024,HDD,AMD,2.5,2,A6 Series 9220,1920x1080,Full HD,AMD
+Asus,15.6,16,Nvidia GeForce GTX 960M,Windows,10,2.59,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,13.3,8,Intel HD Graphics 515,Windows,10,1.16,256,SSD,Intel,1.1,2,Core M 6Y54,3200x1800,Quad HD+ / Touchscreen,Intel
+Dell,15.6,4,AMD Radeon R5 M315,Windows,7,2.24,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,AMD
+Lenovo,15.6,4,Intel HD Graphics 520,Windows,10,2.1,128,SSD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,Intel
+HP,13.3,8,Intel HD Graphics 520,Windows,10,1.16,512,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+Lenovo,10.1,4,Intel HD Graphics 400,Android,Unkonwn,0.69,64,Flash Storage,Intel,1.44,4,Atom x5 Z8550,1920x1200,IPS Panel Touchscreen,Intel
+Dell,13.3,8,Intel Iris Plus Graphics 640,Windows,10,1.23,256,SSD,Intel,2.4,2,Core i7 7560U,1920x1080,Full HD,Intel
+Lenovo,17.3,16,Nvidia GeForce GTX 980M,Windows,10,4.6,1280,SSD + Hybrid,Intel,2.7,4,Core i7 6820HK,1920x1080,IPS Panel Full HD,Nvidia
+Razer,12.5,8,Intel HD Graphics 520,Windows,10,1.25,256,SSD,Intel,2.5,2,Core i7 6500U,3840x2160,Touchscreen / 4K Ultra HD,Intel
+Toshiba,13.3,16,Intel HD Graphics 620,Windows,10,1.05,512,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Intel
+Asus,17.3,8,Nvidia GeForce GTX 960M,Windows,10,3.52,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+Vero,13.3,4,Intel HD Graphics 400,Windows,10,1.35,32,Flash Storage,Intel,1.44,4,Atom X5 Z8350,1920x1080,Full HD,Intel
+HP,13.3,8,Intel HD Graphics 520,Windows,10,1.16,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+HP,14.0,8,Intel HD Graphics 520,Windows,7,1.43,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+Dell,15.6,4,Intel HD Graphics 520,Linux,Unkonwn,2.09,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+Asus,15.6,4,Intel HD Graphics 620,Windows,10,2.0,1024,HDD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+Lenovo,14.0,8,Intel HD Graphics 520,Windows,10,1.8,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Lenovo,10.1,4,Intel HD Graphics 400,Windows,10,0.69,64,Flash Storage,Intel,1.44,4,Atom x5 Z8550,1920x1200,IPS Panel Touchscreen,Intel
+HP,12.5,8,Intel HD Graphics 520,Windows,7,1.26,256,SSD,Intel,2.4,2,Core i5 6300U,1366x768,Unknown,Intel
+Lenovo,15.6,8,Nvidia GeForce GTX 1060,No OS,No OS,2.4,1152,SSD + HDD,Intel,2.5,4,Core i5 7300HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,17.3,8,Nvidia GeForce GTX 1060,Windows,10,3.35,1152,SSD + HDD,Intel,2.3,4,Core i5 6300HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,15.6,8,Intel HD Graphics 620,Windows,10,2.04,2048,HDD,Intel,2.7,2,Core i7 7500U,1366x768,Unknown,Intel
+Lenovo,14.0,8,Nvidia Quadro M500M,Windows,7,1.8,512,SSD,Intel,2.6,2,Core i7 6600U,1920x1080,IPS Panel Full HD / Touchscreen,Nvidia
+Asus,14.0,4,Intel HD Graphics 500,Windows,10,1.5,32,Flash Storage,Intel,1.1,2,Celeron Dual Core N3350,1366x768,Unknown,Intel
+HP,15.6,8,Intel HD Graphics 620,Windows,10,1.84,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Intel
+Acer,15.6,4,Nvidia GeForce 940MX,Windows,10,2.23,1024,HDD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Nvidia
+Lenovo,15.6,16,AMD Radeon R7 M360,Windows,10,2.5,1024,Hybrid,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,AMD
+HP,17.3,8,Nvidia Quadro M3000M,Windows,7,3.0,256,SSD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,15.6,8,AMD Radeon R7 M445,Windows,10,2.5,1024,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,AMD
+MSI,17.3,16,Nvidia GeForce GTX 980M,Windows,10,3.78,1280,SSD + HDD,Intel,2.7,4,Core i7 6820HQ,1920x1080,Full HD,Nvidia
+HP,15.6,8,Intel HD Graphics 520,Windows,7,1.88,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+Lenovo,14.0,16,Intel HD Graphics 520,Windows,10,2.8,512,SSD,Intel,2.6,2,Core i7 6600U,2560x1440,IPS Panel Touchscreen,Intel
+MSI,15.6,8,Nvidia GeForce GTX 1050,Windows,10,2.4,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+HP,13.3,8,Intel HD Graphics 520,Windows,10,1.48,256,SSD,Intel,2.4,2,Core i5 6300U,1920x1080,Full HD / Touchscreen,Intel
+HP,15.6,8,Nvidia Quadro M1000M,Windows,7,2.59,256,SSD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,13.3,8,Intel HD Graphics 520,Windows,10,1.48,256,SSD,Intel,2.6,2,Core i7 6600U,2560x1440,Touchscreen,Intel
+HP,15.6,8,Nvidia Quadro M1000M,Windows,7,2.0,256,SSD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+HP,12.5,8,Intel HD Graphics 520,Windows,7,1.26,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+Dell,15.6,8,Nvidia GeForce 940MX,Windows,10,2.18,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Nvidia
+HP,15.6,8,Intel HD Graphics 520,Windows,7,1.88,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+Lenovo,14.0,8,Intel HD Graphics 520,Windows,10,1.27,256,SSD,Intel,2.5,2,Core i7 6500U,2560x1440,IPS Panel Touchscreen,Intel
+Lenovo,15.6,4,Intel HD Graphics 520,No OS,No OS,1.9,1024,HDD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,Intel
+HP,15.6,4,AMD Radeon R2 Graphics,Windows,10,1.86,500,HDD,AMD,1.8,4,E Series 7110,1366x768,Unknown,AMD
+Lenovo,15.6,8,AMD Radeon R5 M330,No OS,No OS,2.32,1024,HDD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,AMD
+Dell,15.6,8,Nvidia GeForce GTX 1050Ti,Windows,10,2.62,1024,HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Dell,15.6,8,Nvidia GeForce 960M,Windows,10,2.04,256,SSD,Intel,2.3,4,Core i5 6300HQ,3840x2160,IPS Panel Touchscreen / 4K Ultra HD,Nvidia
+HP,15.6,4,AMD Radeon 520,Windows,10,1.91,256,SSD,AMD,2.5,2,A6 Series A6 9220,1920x1080,Full HD,AMD
+MSI,17.3,16,Nvidia GeForce GTX 1050 Ti,Windows,10,2.7,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Lenovo,14.0,12,Intel HD Graphics 520,Windows,7,1.4,512,SSD,Intel,2.6,2,Core i7 6600U,1920x1080,Full HD,Intel
+Lenovo,15.6,8,AMD Radeon R5 M330,Windows,10,2.5,1024,Hybrid,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,AMD
+HP,13.3,8,Intel HD Graphics 520,Windows,10,1.48,512,SSD,Intel,2.6,2,Core i7 6600U,2560x1440,Touchscreen,Intel
+Lenovo,14.0,8,Intel HD Graphics 520,Windows,7,1.7,256,SSD,Intel,2.6,2,Core i7 6600U,1920x1080,Full HD,Intel
+MSI,14.0,16,Nvidia GeForce GTX 970M,Windows,10,1.7,1280,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+HP,15.6,8,Nvidia GeForce GTX 1050,Windows,10,2.62,1024,HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Lenovo,15.6,8,Intel HD Graphics 520,Windows,10,2.2,1024,HDD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,Intel
+HP,15.6,4,Intel HD Graphics 520,No OS,No OS,2.1,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+Dell,15.6,8,Nvidia GeForce GTX 1050 Ti,Windows,10,2.62,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,3840x2160,4K Ultra HD,Nvidia
+Lenovo,15.6,8,Intel HD Graphics 620,Windows,10,1.95,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,IPS Panel Full HD,Intel
+Lenovo,15.6,4,Nvidia GeForce 920MX ,Windows,10,2.2,1024,HDD,Intel,2.0,2,Core i3 6006U,1920x1080,Full HD,Nvidia
+HP,14.0,2,Intel HD Graphics 400,Windows,10,1.44,32,Flash Storage,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+MSI,15.6,8,Nvidia GeForce GTX 1050,Windows,10,2.2,1024,HDD,Intel,2.7,2,Core i7 7500U,1920x1080,IPS Panel Full HD,Nvidia
+HP,15.6,8,Intel HD Graphics 520,Windows,10,1.96,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+HP,15.6,16,Intel UHD Graphics 620,Windows,10,2.1,512,SSD,Intel,1.8,4,Core i7 8550U,1920x1080,Full HD,Intel
+Asus,15.6,4,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+Lenovo,15.6,4,Intel HD Graphics 520,No OS,No OS,2.1,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+Lenovo,15.6,8,Nvidia GeForce 940MX,No OS,No OS,2.2,1024,HDD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Nvidia
+Asus,14.0,4,Intel HD Graphics 620,Windows,10,2.0,256,SSD,Intel,2.4,2,Core i3 7100U,1920x1080,Full HD,Intel
+Lenovo,15.6,4,Intel HD Graphics 520,Windows,7,2.32,1024,Hybrid,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+Lenovo,15.6,16,Nvidia GeForce GTX 960,Windows,10,3.31,512,SSD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+MSI,15.6,16,Nvidia GeForce GTX 970M,Windows,10,1.91,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+HP,15.6,4,Intel HD Graphics 520,Windows,10,2.07,500,HDD,Intel,2.3,2,Core i3 6100U,1366x768,Unknown,Intel
+Lenovo,14.0,8,Intel HD Graphics 520,Windows,10,1.36,256,SSD,Intel,2.3,2,Core i5 6200U,2560x1440,IPS Panel Touchscreen,Intel
+Lenovo,15.6,6,Nvidia GeForce 920M,Windows,10,1.54,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Nvidia
+Dell,15.6,8,Nvidia GeForce GT 940MX,Linux,Unkonwn,1.98,256,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD,Nvidia
+Acer,15.6,4,Intel HD Graphics 500,Windows,10,2.1,500,HDD,Intel,2.0,2,Celeron Dual Core N3350,1366x768,Unknown,Intel
+HP,15.6,6,Nvidia GeForce GTX 960M,Windows,10,2.18,1024,HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Asus,15.6,8,Nvidia GeForce GTX 960M,Windows,10,2.591,1280,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,15.6,16,Intel HD Graphics 620,Windows,10,2.09,512,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD / Touchscreen,Intel
+Acer,15.6,4,Nvidia GeForce 940MX,Windows,10,2.23,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,Nvidia
+Dell,13.3,8,Intel HD Graphics 520,Linux,Unkonwn,1.23,256,SSD,Intel,2.4,2,Core i5 6300U,3200x1800,Quad HD+ / Touchscreen,Intel
+Acer,17.3,16,Nvidia GeForce GTX 1070,Windows,10,4.2,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Lenovo,15.6,8,Nvidia GeForce GTX 1050,Windows,10,2.4,1024,HDD,Intel,2.5,4,Core i5 7300HQ,1920x1080,IPS Panel Full HD,Nvidia
+Samsung,12.3,4,ARM Mali T860 MP4,Chrome OS,Unkonwn,1.15,32,Flash Storage,Samsung,2.0,8,Samsung Cortex A72 A53,2400x1600,IPS Panel Touchscreen,ARM
+HP,15.6,4,Intel HD Graphics 620,Windows,10,1.86,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Apple,12.0,8,Intel HD Graphics 5300,Mac OS,X,0.92,256,Flash Storage,Intel,1.1,1,Core M,2304x1440,IPS Panel Retina Display,Intel
+Dell,13.3,8,Intel HD Graphics 620,Windows,10,1.6,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+HP,15.6,12,Nvidia GeForce GTX 1050,Windows,10,2.21,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Lenovo,15.6,4,AMD Radeon R5 M430,No OS,No OS,1.9,1024,HDD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,AMD
+Asus,17.3,16,Nvidia GeForce GTX 980M,Windows,10,4.3,1536,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Acer,15.6,4,Intel HD Graphics 500,Linux,Unkonwn,2.1,1024,HDD,Intel,2.0,2,Celeron Dual Core N3350,1366x768,Unknown,Intel
+MSI,17.3,16,Nvidia GeForce GTX 1060,Windows,10,2.43,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Dell,15.6,4,AMD Radeon R7 M440,Windows,10,2.3,128,SSD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,AMD
+Lenovo,15.6,8,Nvidia GeForce 920MX,No OS,No OS,2.2,500,HDD,Intel,2.5,2,Core i7 6500U,1366x768,Unknown,Nvidia
+Dell,15.6,16,Intel UHD Graphics 620,Windows,10,2.0,512,SSD,Intel,1.8,4,Core i7 8550U,1920x1080,Full HD / Touchscreen,Intel
+Dell,13.3,16,Intel HD Graphics 620,Windows,10,1.2,512,SSD,Intel,2.7,2,Core i7 7500U,3200x1800,Quad HD+ / Touchscreen,Intel
+Asus,15.6,8,Nvidia GeForce GTX 1060,Windows,10,2.2,1024,HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+Dell,15.6,8,AMD Radeon R7 M445,Windows,10,2.36,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,Full HD,AMD
+HP,15.6,8,Intel HD Graphics 620,Windows,10,1.91,256,SSD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Lenovo,15.6,4,AMD Radeon R2 Graphics,Windows,10,2.2,500,HDD,AMD,2.2,2,E Series 9000,1366x768,Unknown,AMD
+Acer,17.3,8,Nvidia GeForce 940MX,Windows,10,3.3,1024,HDD,Intel,2.0,2,Core i3 6006U,1600x900,Unknown,Nvidia
+Asus,15.6,16,Nvidia GeForce GTX 1070,Windows,10,2.2,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Apple,12.0,8,Intel HD Graphics 515,Mac OS,X,0.92,512,Flash Storage,Intel,1.2,2,Core M,2304x1440,IPS Panel Retina Display,Intel
+Asus,15.6,16,Nvidia GeForce GTX 1060,Windows,10,2.2,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+MSI,17.3,16,Nvidia GeForce GTX 1060,Windows,10,2.43,1280,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,15.6,8,Intel HD Graphics 620,Windows,10,2.191,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Asus,17.3,16,Nvidia GeForce GTX 1060,Windows,10,2.9,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Acer,11.6,2,Intel HD Graphics,Chrome OS,Unkonwn,1.3,32,SSD,Intel,1.5,2,Celeron Dual Core 3205U,1366x768,Unknown,Intel
+Acer,17.3,4,Nvidia GeForce 940MX,Windows,10,3.3,1024,HDD,Intel,2.0,2,Core i3 6006U,1600x900,Unknown,Nvidia
+Lenovo,17.3,8,Intel HD Graphics 620,No OS,No OS,2.8,1024,HDD,Intel,2.5,2,Core i5 7200U,1600x900,Unknown,Intel
+Lenovo,15.6,8,Nvidia GeForce GTX 960,Windows,10,2.6,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Acer,14.0,8,Intel HD Graphics 615,Windows,10,1.2,256,SSD,Intel,1.3,2,Core i7 7Y75,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Lenovo,15.6,8,Intel HD Graphics 520,Windows,10,2.3,256,SSD,Intel,2.6,2,Core i7 6600U,1920x1080,IPS Panel Full HD,Intel
+MSI,15.6,8,Nvidia GeForce GTX 1060,Windows,10,2.2,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+HP,15.6,6,AMD Radeon 530,Windows,10,2.1,1024,HDD,AMD,2.7,4,A12 Series 9720P,1920x1080,Full HD,AMD
+Dell,12.5,8,Intel HD Graphics 520,Windows,7,1.26,256,SSD,Intel,2.4,2,Core i5 6300U,1920x1080,Full HD / Touchscreen,Intel
+Dell,15.0,4,Intel HD Graphics 620,Windows,10,2.08,500,HDD,Intel,2.4,2,Core i3 7100U,1920x1080,Full HD / Touchscreen,Intel
+Asus,15.6,4,Intel HD Graphics 405,Windows,10,2.65,1024,HDD,Intel,1.6,4,Pentium Quad Core N3710,1366x768,Unknown,Intel
+Dell,13.3,8,Intel HD Graphics 620,Windows,10,1.29,256,SSD,Intel,2.7,2,Core i7 7500U,3200x1800,Quad HD+ / Touchscreen,Intel
+Dell,15.6,4,Intel HD Graphics 520,Linux,Unkonwn,2.18,1024,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Lenovo,15.6,16,Nvidia GeForce GTX 960M,Windows,10,2.6,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD / Touchscreen,Nvidia
+MSI,15.6,8,Nvidia GeForce GTX 1050,Windows,10,2.2,1152,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Lenovo,12.5,16,Intel HD Graphics 520,Windows,10,1.3,512,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Razer,14.0,16,Nvidia GeForce GTX 1060,Windows,10,1.95,1024,SSD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Dell,15.6,8,Intel HD Graphics 620,Windows,10,2.3,1024,HDD,Intel,2.4,2,Core i3 7100U,1366x768,Touchscreen,Intel
+MSI,17.3,16,Nvidia GeForce GTX 1060,Windows,10,2.7,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,Full HD,Nvidia
+Apple,11.6,4,Intel HD Graphics 6000,Mac OS,X,1.08,256,Flash Storage,Intel,1.6,4,Core i5,1366x768,Unknown,Intel
+HP,15.6,4,Intel HD Graphics 520,Windows,10,2.1,1024,HDD,Intel,2.0,2,Core i3 6006U,1920x1080,Full HD,Intel
+HP,14.0,8,Intel HD Graphics 520,Windows,7,1.54,256,SSD,Intel,2.5,2,Core i7 6500U,2560x1440,Unknown,Intel
+Dell,15.6,4,Intel HD Graphics 520,Windows,7,2.24,500,HDD,Intel,2.3,2,Core i5 6200U,1366x768,Unknown,Intel
+MSI,15.6,8,Nvidia GeForce GTX 960M,Windows,10,2.3,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+Lenovo,13.3,16,Intel HD Graphics 620,Windows,10,1.4,512,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,IPS Panel Full HD,Intel
+Lenovo,15.6,6,AMD Radeon 530,Windows,10,2.2,256,SSD,AMD,3.6,4,A12 Series 9720P,1920x1080,Full HD,AMD
+Asus,13.3,8,Intel HD Graphics 520,Windows,10,1.45,256,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,Intel
+Acer,15.6,4,Intel HD Graphics 520,Linux,Unkonwn,2.4,500,HDD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,Intel
+Dell,17.3,16,Nvidia GeForce 940MX,Windows,10,2.77,512,SSD,Intel,2.7,2,Core i7 7500U,1920x1080,Full HD / Touchscreen,Nvidia
+HP,14.0,4,Intel HD Graphics 520,Windows,7,1.54,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD,Intel
+Asus,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,10,2.5,1280,SSD + HDD,Intel,2.8,4,Core i7 7700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,14.0,4,Intel HD Graphics 620,Windows,10,1.6,500,HDD,Intel,2.5,2,Core i5 7200U,1366x768,Unknown,Intel
+Asus,15.6,16,Nvidia GeForce GTX 1070,Windows,10,2.34,1280,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Lenovo,15.6,8,Intel HD Graphics 620,No OS,No OS,2.3,256,SSD,Intel,2.5,2,Core i5 7200U,1920x1080,IPS Panel Full HD,Intel
+Dell,13.3,8,Intel HD Graphics 615,Windows,10,1.24,256,SSD,Intel,1.2,2,Core i5 7Y54,3200x1800,Quad HD+ / Touchscreen,Intel
+Dell,15.6,4,Intel HD Graphics,Linux,Unkonwn,2.2,500,HDD,Intel,1.6,4,Pentium Quad Core N3710,1366x768,Unknown,Intel
+HP,15.6,4,AMD Radeon R4 Graphics,Windows,10,1.86,500,HDD,AMD,2.5,2,A6 Series 9220,1366x768,Unknown,AMD
+Lenovo,15.6,6,Nvidia GeForce 920MX,Windows,10,2.4,128,SSD,Intel,2.3,2,Core i3 6100U,1920x1080,Full HD,Nvidia
+Lenovo,14.0,8,Intel HD Graphics 520,Windows,10,1.9,256,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,IPS Panel Full HD,Intel
+Dell,15.6,4,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,4,Pentium Quad Core N3700,1366x768,Unknown,Intel
+Asus,15.6,4,Intel HD Graphics 500,Windows,10,2.0,1024,HDD,Intel,1.1,2,Celeron Dual Core N3350,1366x768,Unknown,Intel
+Asus,17.3,16,Nvidia GeForce GTX 970M,Windows,10,4.0,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+Dell,15.6,4,Intel HD Graphics 520,Windows,10,2.29,500,HDD,Intel,2.0,2,Core i3 6006U,1366x768,Unknown,Intel
+Lenovo,15.6,8,AMD Radeon R5 M330,Windows,7,2.32,1024,Hybrid,Intel,2.5,2,Core i7 6500U,1920x1080,Full HD,AMD
+MSI,15.6,8,Nvidia GeForce GTX 960M,Windows,10,2.4,1152,SSD + HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,Full HD,Nvidia
+Lenovo,14.0,4,Intel HD Graphics 520,Windows,10,1.8,128,SSD,Intel,2.3,2,Core i5 6200U,1920x1080,Full HD / Touchscreen,Intel
+Asus,13.3,8,Intel HD Graphics 515,Windows,10,1.2,512,SSD,Intel,0.9,2,Core M 6Y30,1920x1080,IPS Panel Full HD,Intel
+Dell,15.6,6,Intel HD Graphics 620,Windows,10,2.3,1024,HDD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+Acer,15.6,4,Intel HD Graphics 400,Linux,Unkonwn,2.4,500,HDD,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+Dell,15.6,2,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+Lenovo,15.6,8,Nvidia GeForce GTX 960M,Windows,10,2.6,1024,HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,15.6,6,AMD Radeon R7 M440,Windows,10,2.04,1024,Hybrid,AMD,2.9,2,A9 Series 9410,1920x1080,Full HD,AMD
+Dell,15.6,8,AMD Radeon R5 M430,Linux,Unkonwn,2.3,1024,HDD,Intel,2.7,2,Core i7 7500U,1366x768,Unknown,AMD
+HP,11.6,2,Intel HD Graphics 400,Windows,10,1.17,32,Flash Storage,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+Asus,15.6,4,Nvidia GeForce 920M,Windows,10,2.2,500,HDD,Intel,2.5,2,Core i7 6500U,1366x768,Unknown,Nvidia
+Lenovo,14.0,4,Intel HD Graphics 520,Windows,10,1.8,128,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Lenovo,13.3,16,Intel HD Graphics 520,Windows,10,1.3,512,SSD,Intel,2.5,2,Core i7 6500U,3200x1800,IPS Panel Quad HD+ / Touchscreen,Intel
+Lenovo,14.0,2,Intel HD Graphics,Windows,10,1.5,64,Flash Storage,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+HP,15.6,6,AMD Radeon R5 M330,Windows,10,2.19,1024,HDD,Intel,2.5,2,Core i7 6500U,1366x768,Unknown,AMD
+Asus,15.6,4,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+Asus,13.3,8,Intel HD Graphics 515,Windows,10,1.2,512,SSD,Intel,0.9,2,Core M 6Y30,1920x1080,IPS Panel Full HD,Intel
+Dell,15.6,6,Intel HD Graphics 620,Windows,10,2.3,1024,HDD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+Acer,15.6,4,Intel HD Graphics 400,Linux,Unkonwn,2.4,500,HDD,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+Dell,15.6,2,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+Lenovo,15.6,8,Nvidia GeForce GTX 960M,Windows,10,2.6,1024,HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,15.6,6,AMD Radeon R7 M440,Windows,10,2.04,1024,Hybrid,AMD,2.9,2,A9 Series 9410,1920x1080,Full HD,AMD
+Dell,15.6,8,AMD Radeon R5 M430,Linux,Unkonwn,2.3,1024,HDD,Intel,2.7,2,Core i7 7500U,1366x768,Unknown,AMD
+HP,11.6,2,Intel HD Graphics 400,Windows,10,1.17,32,Flash Storage,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+Asus,15.6,4,Nvidia GeForce 920M,Windows,10,2.2,500,HDD,Intel,2.5,2,Core i7 6500U,1366x768,Unknown,Nvidia
+Lenovo,14.0,4,Intel HD Graphics 520,Windows,10,1.8,128,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Lenovo,13.3,16,Intel HD Graphics 520,Windows,10,1.3,512,SSD,Intel,2.5,2,Core i7 6500U,3200x1800,IPS Panel Quad HD+ / Touchscreen,Intel
+Lenovo,14.0,2,Intel HD Graphics,Windows,10,1.5,64,Flash Storage,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+HP,15.6,6,AMD Radeon R5 M330,Windows,10,2.19,1024,HDD,Intel,2.5,2,Core i7 6500U,1366x768,Unknown,AMD
+Asus,15.6,4,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+Asus,13.3,8,Intel HD Graphics 515,Windows,10,1.2,512,SSD,Intel,0.9,2,Core M 6Y30,1920x1080,IPS Panel Full HD,Intel
+Dell,15.6,6,Intel HD Graphics 620,Windows,10,2.3,1024,HDD,Intel,2.4,2,Core i3 7100U,1366x768,Unknown,Intel
+Acer,15.6,4,Intel HD Graphics 400,Linux,Unkonwn,2.4,500,HDD,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+Dell,15.6,2,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+Lenovo,15.6,8,Nvidia GeForce GTX 960M,Windows,10,2.6,1024,HDD,Intel,2.6,4,Core i7 6700HQ,1920x1080,IPS Panel Full HD,Nvidia
+HP,15.6,6,AMD Radeon R7 M440,Windows,10,2.04,1024,Hybrid,AMD,2.9,2,A9 Series 9410,1920x1080,Full HD,AMD
+Dell,15.6,8,AMD Radeon R5 M430,Linux,Unkonwn,2.3,1024,HDD,Intel,2.7,2,Core i7 7500U,1366x768,Unknown,AMD
+HP,11.6,2,Intel HD Graphics 400,Windows,10,1.17,32,Flash Storage,Intel,1.6,2,Celeron Dual Core N3060,1366x768,Unknown,Intel
+Asus,15.6,4,Nvidia GeForce 920M,Windows,10,2.2,500,HDD,Intel,2.5,2,Core i7 6500U,1366x768,Unknown,Nvidia
+Lenovo,14.0,4,Intel HD Graphics 520,Windows,10,1.8,128,SSD,Intel,2.5,2,Core i7 6500U,1920x1080,IPS Panel Full HD / Touchscreen,Intel
+Lenovo,13.3,16,Intel HD Graphics 520,Windows,10,1.3,512,SSD,Intel,2.5,2,Core i7 6500U,3200x1800,IPS Panel Quad HD+ / Touchscreen,Intel
+Lenovo,14.0,2,Intel HD Graphics,Windows,10,1.5,64,Flash Storage,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
+HP,15.6,6,AMD Radeon R5 M330,Windows,10,2.19,1024,HDD,Intel,2.5,2,Core i7 6500U,1366x768,Unknown,AMD
+Asus,15.6,4,Intel HD Graphics,Windows,10,2.2,500,HDD,Intel,1.6,2,Celeron Dual Core N3050,1366x768,Unknown,Intel
