@@ -7,10 +7,8 @@
 ## Indice:
 1.[📜 Descripción](#descripcion)\
 2.[⏳ Desarrollo](#desarrollo)\
-3.[📊 Conclusiones](#conclusiones)\
-4.[✍️ Storytelling](#story)\
-5.[🔬 Conclusiones](#conclusiones)\
-6.[📁 Estructura](#Estructura)
+3.[🔬 Conclusiones](#conclusiones)\
+4.[📁 Estructura](#Estructura)
 
 ## Descripción:<a name="descripcion"/>
 
@@ -24,11 +22,11 @@ Para ello usaremos herramientas de Machine Learning, por lo que tendremos que li
 
 Realizaremos el proceso siguiendo los siguientes pasos:
 
-1- En el notebook [EDA](https://github.com/gusavato/IRONHACK_Kaggle_competition/blob/main/jupyter/EDA.ipynb) partimos de los datos proporcionados por la competición, limpiaremos y prepararemos los datos para poder aplicar las transformaciones pertinentes de cara a entrenar un modelo de Machine Learning.
+1- En el notebook [EDA](https://github.com/gusavato/IRONHACK_Kaggle_competition/blob/main/jupyter/1%20-%20EDA.ipynb) partimos de los datos proporcionados por la competición, limpiaremos y prepararemos los datos para poder aplicar las transformaciones pertinentes de cara a entrenar un modelo de Machine Learning.
 
-2- En el notebook [Transformación](https://github.com/gusavato/IRONHACK_Kaggle_competition/blob/main/jupyter/Transformacion.ipynb) continuaremos con el proceso iniciado en el paso anterior, y normalizaremos y etiquetaremos distintas características para poder aplicar el modelo que consideremos más adecuado. Aparte realizaremos un proceso de clusterización mediante K-Means con el objetivo de enriquecer los datos
+2- En el notebook [Transformación](https://github.com/gusavato/IRONHACK_Kaggle_competition/blob/main/jupyter/2%20-%20Transformacion.ipynb) continuaremos con el proceso iniciado en el paso anterior, y normalizaremos y etiquetaremos distintas características para poder aplicar el modelo que consideremos más adecuado. Aparte realizaremos un proceso de clusterización mediante K-Means con el objetivo de enriquecer los datos
 
-3- En el último notebook [Creación del modelo y entrenamiento](https://github.com/gusavato/IRONHACK_Kaggle_competition/blob/main/jupyter/Creaci%C3%B3n%20del%20modelo%20y%20entrenamiento%20.ipynb) aplicaremos modelos de Random Forest y seleccionaremos los parámetros óptimos mediante [RandomizeSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).
+3- En el último notebook [Creación del modelo y entrenamiento](https://github.com/gusavato/IRONHACK_Kaggle_competition/blob/main/jupyter/3%20-%20Creaci%C3%B3n%20del%20modelo%20y%20entrenamiento%20.ipynb) aplicaremos modelos de Random Forest y seleccionaremos los parámetros óptimos mediante [RandomizeSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).
 
 Aparte alimentaremos el modelo con distintas combinaciones de características para intentar conseguir una predicción más ajustada. Las combinaciones usadas son las siguientes:
 - Teniendo en cuenta o no los outliers
